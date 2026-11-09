@@ -24,4 +24,5 @@ Thumbs.db
 .env.*
 !.env.example
 
+# Dataset : seules les images de data/ sont ignorées (les index de features/ sont conservés)
 /data
